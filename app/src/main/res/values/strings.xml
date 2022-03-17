@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_name">Enter Your name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="omicron_batch_25">Omicron Batch \'25</string>
+    <string name="enter_your_age">Enter your age</string>
+</resources>
